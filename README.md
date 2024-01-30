@@ -1,24 +1,22 @@
-# README
+![How to Add Live Reload to Your Rails Application](https://f001.backblazeb2.com/file/webcrunch/add-live-reload-rails-application.jpg)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# How to Add Live Reload to Your Rails Application
 
-Things you may want to cover:
+Live reload is an incredible tool for developers looking to boost their productivity. In this tutorial, I will walk you through the process of implementing live reload in your Ruby on Rails application using esbuild.
 
-* Ruby version
+Implementing live reload can greatly streamline your development workflow, saving you valuable time and effort. By automatically refreshing your app whenever you make changes, you can instantly see the results without manually reloading the page.
 
-* System dependencies
+To achieve this, we will leverage the power of esbuild, a cutting-edge technology for fast and efficient JavaScript bundling. By combining esbuild with Ruby on Rails, we can create a seamless live reload experience that will streamline your development process.
 
-* Configuration
+- [📕 Read the blog post](https://webcrunch.com/posts/live-reload-rails)
+- [📺 Watch the tutorial](https://youtu.be/Pf3Kpbb4ZHg)
 
-* Database creation
+------
 
-* Database initialization
+### Additional links
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- 👨‍💻 More tutorials and content: [https://webcrunch.com](https://webcrunch.com]
+- 🎨 Bring life to Rails projects with Rails UI: [https://railsui.com](https://railsui.com).
+- 👨‍💻 Hire me: Visit [https://railsui.com/custom](https://railsui.com/custom)
+- 🐤 https://twitter.com/webcrunchblog.
+- ⚙️ https://github.com/justalever.
